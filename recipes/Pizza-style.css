@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1 {
+    background-color: blue;
+    text-align: center;
+}
+
+h3, h4 {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+ul {
+    background-color: black;
+    color: white;
+}
+
+ol {
+    background-color: yellow;
+}

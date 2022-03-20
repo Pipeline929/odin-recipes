@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    background-color: blue;
+    text-align: center;
+}
+
+h3, h4 {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+ul {
+    background-color: black;
+    color: white;
+}
+
+ol {
+    background-color: yellow;
+}
