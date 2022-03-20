@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+}
+
+h3, h4 {
+    background-color: blueviolet;
+    color: white;
+}
+
+ul {
+    background-color: black;
+    color: white;
+}
+
+ol {
+    background-color: yellow;
+    color: black;
+}
